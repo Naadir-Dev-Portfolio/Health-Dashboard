@@ -1,7 +1,8 @@
 # Health Dashboard
 
-**Developer & Author:** Naadir D
-Built in Dec 2023 - July 2024
+**Developer & Author:** 
+Naadir D
+- Built in Dec 2023 - July 2024
 
 ![Health Dashboard](screens/Health_Fitness_Screen.JPG)
 
