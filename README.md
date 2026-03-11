@@ -1,11 +1,10 @@
 # Health Dashboard
 
+![Health Dashboard](screens/Health_Fitness_Screen.JPG)
+
 | Developer & Author | Built                |
 |--------------------|----------------------|
 | Naadir D           | Dec 2023 – July 2024 |
-
-
-![Health Dashboard](screens/Health_Fitness_Screen.JPG)
 
 ## Overview
 
