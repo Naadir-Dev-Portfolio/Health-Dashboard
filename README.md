@@ -4,7 +4,6 @@
 
 **Author:** Naadir D
 
-![Health Dashboard Screenshot](screens/health_dashboard.png)
 
 ## Overview
 
